@@ -1,9 +1,8 @@
 # baccus
 
-Aplicación para iPad para consultar de vinos. 
-Realizada durante el curso de desarrollo para iOS de Agbo-KeepCoding.
+Aplicación para iPad para la consulta de vinos. 
 
-Conceptos y componentes usados: 
+Desarrollada con Objective-C con los conceptos y componentes siguientes: 
 - Xibs 
 - UITableControllers,  
 - UIViewControllers, 
@@ -11,3 +10,5 @@ Conceptos y componentes usados:
 - SplitViews, NavigationBar,  
 - protocolo delegado, 
 - notificaciones internas...
+
+Realizada durante el curso de fundamamentos de programación iOS de Agbo-KeepCoding.
